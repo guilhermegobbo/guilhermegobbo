@@ -11,4 +11,4 @@ Além disso, já obtive mais de 15 medalhas científicas apenas no ensino médio
 - Power BI e Excel
 - C++
 
-### Aqui apresentarei diversos projetos relacionados à Machine Learning. Sinta-se à vontade para entrar em contato comigo a qualquer momento!
+### Aqui apresentarei diversos projetos relacionados à Ciência de Dados. Sinta-se à vontade para entrar em contato comigo a qualquer momento!
