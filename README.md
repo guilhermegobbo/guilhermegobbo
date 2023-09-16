@@ -6,7 +6,7 @@ Além disso, já obtive mais de 15 medalhas científicas apenas no ensino médio
 
 ## Hard Skills:
 
-- Python (Scikit-learn, pandas, numpy, matplotlib, seaborn & selenium)
+- Python (Scikit-learn, pandas, numpy, matplotlib, seaborn, selenium & Flask)
 - SQL
 - Power BI e Excel
 - C++
