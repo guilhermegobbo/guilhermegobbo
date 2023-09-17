@@ -10,5 +10,6 @@ Além disso, já obtive mais de 15 medalhas científicas apenas no ensino médio
 - SQL
 - Power BI e Excel
 - C++
+- JavaScript
 
 ### Aqui apresentarei diversos projetos relacionados à Ciência de Dados. Sinta-se à vontade para entrar em contato comigo a qualquer momento!
