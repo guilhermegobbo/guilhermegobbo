@@ -9,7 +9,7 @@ In the same period I got **16 scientific medals** (STEM areas).
 ## Hard Skills:
 
 - Python (Scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, selenium & Flask)
-- Power BI & VBA
+- Power BI & DAX
 - SQL
 - JavaScript, HTML & CSS
 - AWS EC2 & SuperPutty
