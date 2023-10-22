@@ -1,18 +1,18 @@
 ## Quem sou eu?
 
-Olá! Meu nome é Guilherme Gobbo, tenho 18 anos e sou um estudante Autodidata de Ciências de Dados.
+Hey! My name is Guilherme, I'm an 18-year-old self-taught Data Science & Math student.
 
-Em 2 anos de Ensino Médio obtive 16 medalhas científicas (grande foco em matemática).
+Between the ages of 15 and 16, I had the chance to teach math (from elementary to college level), English, and astronomy to over **300 students**.
 
-Entre os 15 e 16 anos, tive a oportunidade de dar aulas de matemática (do ensino básico ao superior), inglês e astronomia para mais de 300 alunos.
+In the same period I got **16 scientific medals** (STEM areas)
 
 ## Hard Skills:
 
 - Python (Scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, selenium & Flask)
-- Power BI e VBA
+- Power BI & VBA
 - SQL
-- JavaScript, HTML e CSS
+- JavaScript, HTML & CSS
 - AWS EC2 & SuperPutty
 - Git
 
-### Aqui apresentarei diversos projetos relacionados à Ciência de Dados. Sinta-se à vontade para entrar em contato comigo a qualquer momento!
+### Here I'm going to store all my best projects. Feel free to contact me any time!
