@@ -15,4 +15,4 @@ In the same period I got **16 scientific medals** (STEM areas).
 - AWS EC2 & SuperPutty
 - Git
 
-### Here I'm going to store all my best projects. Feel free to contact me any time!
+### Here I'm going to store all my best projects. Feel free to contact me at any time!
