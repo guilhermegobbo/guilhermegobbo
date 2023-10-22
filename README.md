@@ -1,4 +1,4 @@
-## Quem sou eu?
+## Who am I?
 
 Hey! My name is Guilherme, I'm an 18-year-old self-taught Data Science & Math student.
 
