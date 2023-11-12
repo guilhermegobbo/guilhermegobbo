@@ -11,7 +11,6 @@ In the same period I got **16 scientific medals** (STEM areas).
 - Python (Scikit-learn, tensorflow, pandas, numpy, matplotlib, seaborn, selenium & Flask)
 - Power BI & DAX
 - SQL
-- JavaScript, HTML & CSS
 - AWS EC2 & SuperPutty
 - Git
 
