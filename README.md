@@ -1,6 +1,6 @@
 ## Who am I?
 
-Hey! My name is Guilherme, I'm an 18-year-old self-taught Data Science & Math student.
+Hey! My name is Guilherme, I'm an 19-year-old self-taught Data Science & Math student.
 
 Between the ages of 15 and 16, I had the chance to teach math (from elementary to college level), English, and astronomy to over **300 students**.
 
