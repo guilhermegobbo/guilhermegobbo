@@ -7,6 +7,7 @@ I have expertise in designing END-to-END solutions, including AI Automation, Web
 I’m also comfortable working with Docker, Spark, Airflow, and Git.
 
 • Won 16 school math competitions, with 5 gold medals
+
 • Taught over 300 students high-level math by age 16
 
 🧩I can build projects that include:
