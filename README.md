@@ -1,18 +1,22 @@
 ## Who am I?
 
-Hey! My name is Guilherme, I'm an 19-year-old self-taught Data Science & Math student.
+Hi! I'm Guilherme Gobbo, a Machine Learning Engineer and self-taught math student.
 
-Between the ages of 15 and 16, I had the chance to teach math (from elementary to college level), English, and astronomy to over **300 students**.
+I have expertise in designing END-to-END solutions, including AI Automation, Web Applications, Visualizations and Deployment. I am proficient in Python, Flask, JS, and have extensive experience with cloud platforms such as AWS (SageMaker, Redshift, Lambda, EC2), Azure (Machine Learning, Functions, Cosmos DB), and GCP (BigQuery, Cloud Functions, AI Platform).
 
-In the same period I got **16 scientific medals** (STEM areas).
+I’m also comfortable working with Docker, Spark, Airflow, and Git, which helps make projects scalable, fast, and secure.
 
-## Hard Skills:
+• Won 16 school math competitions, with 5 gold medals
+• Taught over 300 students high-level math by age 16
 
-- Python (Scikit-learn, tensorflow, opencv, mediapipe, pandas, numpy, matplotlib, seaborn, selenium & Flask)
-- Docker, Spark, Airflow
-- AWS & Azure
-- Power BI & DAX
-- SQL
-- Git
+🧩I can build projects that include:
+
+→ Pattern Detection using Machine Learning/Deep Learning
+→ Object Detection/ Tracking/ Segmentation/ OCR
+→ Create and maintain fully automated CI/CD pipelines for code deployment
+→ Reduce infrastructure costs and footprint
+→ Cloud Migration data transfer and validation
+→ Power BI/ Crawler/ API Integration
+
 
 ### Here I'm going to store all my best projects. Feel free to contact me at any time!
