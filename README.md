@@ -13,10 +13,15 @@ I’m also comfortable working with Docker, Spark, Airflow, and Git.
 🧩I can build projects that include:
 
 → Pattern Detection using Machine Learning/Deep Learning
+
 → Object Detection/ Tracking/ Segmentation/ OCR
+
 → Create and maintain fully automated CI/CD pipelines for code deployment
+
 → Reduce infrastructure costs and footprint
+
 → Cloud Migration data transfer and validation
+
 → Power BI/ Crawler/ API Integration
 
 
