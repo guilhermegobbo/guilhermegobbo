@@ -10,7 +10,9 @@ I’m also comfortable working with Docker, Spark, Airflow, and Git.
 
 • Taught over 300 students high-level math by age 16
 
+
 🧩I can build projects that include:
+
 
 → Pattern Detection using Machine Learning/Deep Learning
 
