@@ -4,7 +4,7 @@ Hi! I'm Guilherme Gobbo, a Machine Learning Engineer and self-taught math studen
 
 I have expertise in designing END-to-END solutions, including AI Automation, Web Applications, Visualizations and Deployment. I am proficient in Python, Flask, JS, and have extensive experience with cloud platforms such as AWS (SageMaker, Redshift, Lambda, EC2), Azure (Machine Learning, Functions, Cosmos DB), and GCP (BigQuery, Cloud Functions, AI Platform).
 
-I’m also comfortable working with Docker, Spark, Airflow, and Git, which helps make projects scalable, fast, and secure.
+I’m also comfortable working with Docker, Spark, Airflow, and Git.
 
 • Won 16 school math competitions, with 5 gold medals
 • Taught over 300 students high-level math by age 16
