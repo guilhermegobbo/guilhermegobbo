@@ -1,6 +1,6 @@
 ## Who am I?
 
-I'm Guilherme Gobbo. Specialist in Machine Learning/Deep Learning with 4+ years working on diverse projects including image recognition, time series forecasting, clustering, predictive modeling, anomaly detection, classification tasks and deployment.
+I'm Guilherme Gobbo. Specialist in Machine Learning/Deep Learning with 5+ years working on diverse projects including image recognition, time series forecasting, clustering, predictive modeling, anomaly detection, classification tasks and deployment.
 <br><br>
 Winner of 16 mathematics competitions, including 5 gold medals, with experience teaching advanced mathematics to over 300 students by age 16, including preparation for the International Mathematical Olympiad (IMO).
 <br><br>
