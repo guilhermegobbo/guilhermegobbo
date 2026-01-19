@@ -1,3 +1,7 @@
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-gobbo-726722204/)](https://www.linkedin.com/in/guilherme-gobbo-726722204/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@guilhermegobbo04)](https://medium.com/@guilhermegobbo04)
+[![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/guilhermegobbo)](https://www.kaggle.com/guilhermegobbo)
+
 ## Who am I?
 
 I'm Guilherme Gobbo. Specialist in Machine Learning/Deep Learning with 5+ years working on diverse projects including image recognition, time series forecasting, clustering, predictive modeling, anomaly detection, classification tasks and deployment.
