@@ -21,13 +21,13 @@ Winner of 16 mathematics competitions, including 5 gold medals, with experience 
 <br>
 • Workflow Automation (No-Code & Low-Code) - N8N
 <br>
-• MLOps & Data Pipelines - Airflow, CI/CD, Docker, Git, Kubernetes
+• MLOps & Data Pipelines - MLFlow, Databricks, Airflow, CI/CD, Docker, Git, Kubernetes
 <br>
 • Databases & Data Warehousing - SQL, NoSQL, Redshift, BigQuery, Snowflake
 <br>
 <br>
 • Cloud Platforms:
-  - AWS (EC2, S3, Lambda, Redshift, SageMaker)
+  - AWS (EC2, ECR, S3, Bedrock, Lambda, Redshift, SageMaker, Rekognition)
   - GCP (BigQuery, Cloud Run, Vertex AI, Storage)
   - Azure (Data Factory, Functions, Synapse, ML)
 <br><br>
